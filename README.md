@@ -1,5 +1,4 @@
 # LVGL ported to the STM32F769 Discovery
-<img src="https://i.ytimg.com/vi/ZUJxbCbBod0/maxresdefault.jpg">
 
 The [STM32F769 Discovery kit](https://www.st.com/en/evaluation-tools/32f769idiscovery.html) is an affordable development board with:
 * STM32F769NIH6 microcontroller featuring 2 Mbytes of Flash memory and 512 Kbytes of RAM, in BGA216 package
@@ -29,6 +28,3 @@ The [STM32F769 Discovery kit](https://www.st.com/en/evaluation-tools/32f769idisc
 * Arduino Uno V3 connectors
 
 
-## Get started
-- Clone the project: `git clone https://github.com/lvgl/lv_port_stm32f769_disco.git --recurse-submodules`
-- Import into STM32CubeIDE
