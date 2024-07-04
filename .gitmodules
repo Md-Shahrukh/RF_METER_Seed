@@ -1,3 +1,6 @@
 [submodule "lvgl"]
 	path = lvgl
 	url = https://github.com/littlevgl/lvgl.git
+[submodule "ASSET_DISPLAY"]
+	path = ASSET_DISPLAY
+	url = https://github.com/Md-Shahrukh/ASSET_DISPLAY.git
